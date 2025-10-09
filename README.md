@@ -22,20 +22,22 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
 <p align="left">
-I'm ... from ....<br><br>
-- 🔭 I’m working as ...<br>
-- 📚 I'm currently learning ...<br>
-- ⚡ In my free time I ...
+I'm a passionate full-stack developer from Indonesia 🇮🇩.<br><br>
+- 🔭 I’m currently working on web & mobile app projects using **Laravel**, **React**, and **Flutter**.<br>
+- 🌱 I’m learning advanced **backend architecture**, **API integration**, and **state management** in Flutter.<br>
+- 💡 I love exploring new frameworks and creating creative UI/UX experiences.<br>
+- ⚙️ My main stack includes **JavaScript**, **PHP**, **Dart**, and **Python**.<br>
+- 🎮 In my free time, I like coding side projects, playing games, and tinkering with new tech.
 </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
@@ -60,8 +62,6 @@ I'm ... from ....<br><br>
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
