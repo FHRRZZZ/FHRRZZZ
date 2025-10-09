@@ -26,12 +26,12 @@
 
 ###
 
-<!-- <p align="left">
+<p align="left">
 I'm ... from ....<br><br>
 - 🔭 I’m working as ...<br>
 - 📚 I'm currently learning ...<br>
 - ⚡ In my free time I ...
-</p> -->
+</p>
 
 ###
 
