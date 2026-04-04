@@ -1,62 +1,49 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
+<h1 align="center">Hi, I'm Miqdad Fairruz Haq! 🚀</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FHRRZZZ&label=System%20Explorer&color=007bff&style=flat" alt="Views" />
+</p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <h3>🖥️ Fullstack Developer | 🛠️ System Builder | 🎓 IT Student at Universitas Pamulang</h3>
+  <p>Crafting robust applications and scalable systems with modern tech stacks.</p>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 🚀 About Me
+- 🎓 **Education:** Informatics Engineering (TI) - Universitas Pamulang.
+- ⚡ **Current Focus:** Deep diving into Backend Systems & Bot Development.
+- 🐧 **System:** Enthusiast of clean code, Docker containers, and Git workflows.
+- 🏗️ **Mission:** Turning complex problems into simple, functional code.
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,tailwind,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,js,ts,php" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,docker,git,sqlite,mysql" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 🧪 Current Lab (Projects)
+| Project Name | Stack | Status |
+| :--- | :--- | :--- |
+| **Zippy Bot** | Node.js, WhatsApp-web.js | Active 🤖 |
+| **Auth System** | HTML, Tailwind, SQLite | Completed ✅ |
+| **Network Config** | Cisco Packet Tracer | Research 📡 |
 
-###
+
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FHRRZZZ&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHRRZZZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=100&section=footer" />
+</p>
