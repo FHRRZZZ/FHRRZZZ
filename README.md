@@ -39,10 +39,16 @@
 
 ---
 
+---
+
+### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FHRRZZZ&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHRRZZZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FHRRZZZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="FHRRZZZ's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHRRZZZ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
 </div>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=100&section=footer" />
