@@ -50,3 +50,5 @@
 </picture>
 
 ###
+
+![Pacman Animation](https://github.com/FHRRZZZ/FHRRZZZ/blob/output/pacman-contribution-graph.svg)
